@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**leonardopereira-DS/leonardopereira-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! 👋 Eu sou Leonardo Pereira
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil GitHub! 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um(a) entusiasta de **ciência de dados** e **desenvolvimento de software**, sempre aprendendo e explorando novas tecnologias.
+
+### 🔭 Atualmente
+- não estouTrabalhando
+- Aprendendo mais sobre nutricionismo
+
+### 🌱 Estou aprendendo
+- Inteligência Artificial aplicada a negócios
+- Desenvolvimento web full-stack
+- Boas práticas de programação e versionamento de código
+
+### 👯 Procuro colaborar em
+- Projetos de ciência de dados e análise de dados
+- Projetos de automação e scripts úteis
+- Qualquer iniciativa open source que promova aprendizado e inovação
+
+### 💬 Me pergunte sobre
+- Python, SQL, e análise de dados
+- Git e GitHub
+- Visualização de dados
+
+### 📫 Como me encontrar
+- Email: leonardo.pereira.melo@escola.pr.gov.br
+- LinkedIn: [Seu LinkedIn]
+- Twitter: [@seutwitter]
+
+### ⚡ Curiosidade
+- Apaixonado por tecnologia, música e esportes
+- Sempre explorando novas formas de automatizar tarefas e melhorar processos
